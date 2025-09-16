@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Luna Feit</editor>  
+                
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+
+
+<pb n="G8"/>
+ <p>vida a que los pasajeros se desahoguen y descansen de sus fatigas.</p>
+
+<p>Desde dicho sitio se empieza a perder de vista el <placeName key="riotercero">río Tercero</placeName> y a las cinco leguas se presenta el <placeName key="riosegundo">río Segundo</placeName>, caudaloso y de las más cristalinas y mejores aguas de todo el <placeName key="tucuman">Tucumán</placeName>. Su pasaje está a las orillas de una capilla, con algunas casas en donde se pueden proveer los caminantes y correos de algunos bastimentos y agua hasta <placeName key="cordoba">Córdoba</placeName>, porque el río se deja a la parte occidental, muy distante del camino, que es de nueve leguas hasta dicha ciudad; terreno bastantemente caluroso y en que sólo en tiempo de lluvias se hacen algunos charcos de agua mala y cenagosa, por el mucho ganado que bebe en ellos. Tres leguas antes de entrar a <placeName key="cordoba">Córdoba</placeName> da principio el espeso monte hasta concluir su jurisdicción. De sus cercanías se provee la ciudad de leña seca en carretillas, que vale cada una cuatro reales, que es suficiente para el gasto de un mes en una casa de regular economía. También se sacan de lo interior del monte palos para techar las casas y fábrica de varios muebles.</p>
+
+<pb n="H1"/>
+<p><hi rend="bold"><placeName key="cordoba">Córdoba</placeName></hi></p>
+
+<p>Ciudad capital de esta jurisdicción y residencia del obispo de toda la provincia del <placeName key="tucuman">Tucumán</placeName>, está situada en una estrecha ensenada entre el <placeName key="rioprimero">río Primero</placeName> y el espeso monte, en terreno llano y arenoso. A la hora de haber llovido se secan sus superficies de modo que se puede salir a la calle sin incomodidad, pero se sienten en las plantas de los pies bastantemente los vapores de la cálida arena. La ciudad es casi cuadrada, con siete iglesias, incluso la plaza mayor, a donde está la catedral, que tiene una perspectiva irregular porque las dos torres que tiene a los dos cantos de la fachada no exceden en altura a la media naranja. El tamaño de la iglesia es suficiente. Su pobre y escaso adorno, y aun la falta de muchas cosas esenciales, manifiestan las limitadas rentas del obispo y capitulares, que acaso no tendrán lo suficiente para una honesta decencia.</p>
+
+<p>Es digno de reparo que una provincia tan dilatada y en que se comercian todos los años más de seiscientos mil pesos en mulas y vacas, con gran utilidad de tratantes y dueños de potreros, estén las iglesias tan indecentes que causa irreverencia entrar en ellas.</p>
+
+
+</body>
+</text>
+</TEI>
